@@ -1,0 +1,11 @@
+.my-life-my-rules {
+  display: block;
+  font-size: 24px;
+  padding: 2rem; /* 2 x 16px = 32px */
+  margin: 1%; /* 1% of the parent element's width */
+  margin: 1em; /* 1em = 16px */
+}
+
+#heading-1 {
+  color: red;
+}
